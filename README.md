@@ -12,16 +12,33 @@
 ![](https://streak-stats.demolab.com/?user=Shantanu-Pagar-WCE&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Shantanu-Pagar-WCE&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 💻 Competitive Programming Profiles
+## 💻 Competitive Programming
 
-| Platform | Profile |
-|----------|---------|
-| 🟠 LeetCode | https://leetcode.com/u/Shantanu_Pagar |
-| 🤎 CodeChef | https://www.codechef.com/users/shantanu_pagar |
-| 🔵 Codeforces | https://codeforces.com/profile/shantanu1485 |
-| 🟢 HackerRank | https://www.hackerrank.com/profile/shantanu1485 |
-| 🟢 GeeksforGeeks | https://www.geeksforgeeks.org/profile/shantananfo |
-| ⚫ Codolio | https://codolio.com/profile/Shantanu_Pagar |
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Shantanu_Pagar?theme=dark&font=Karma&ext=heatmap"/>
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=shantanu1485&theme=dark"/>
+</p>
+
+<p align="center">
+  <a href="https://www.codechef.com/users/shantanu_pagar">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=for-the-badge&logo=codechef"/>
+  </a>
+
+  <a href="https://www.hackerrank.com/profile/shantanu1485">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/shantananfo">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+  </a>
+
+  <a href="https://codolio.com/profile/Shantanu_Pagar">
+    <img src="https://img.shields.io/badge/Codolio-Profile-black?style=for-the-badge"/>
+  </a>
+</p>
 
 ## 💻 Competitive Programming Profiles
 
