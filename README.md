@@ -40,34 +40,6 @@
   </a>
 </p>
 
-### 🧑‍💻 Coding Profiles
-
-<p align="left">
-  <a href="https://leetcode.com/u/Shantanu_Pagar" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
-  </a>
-  <a href="https://www.codechef.com/users/shantanu_pagar" target="_blank">
-    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
-  </a>
-  <a href="https://codeforces.com/profile/shantanu1485" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
-  </a>
-  <a href="https://www.hackerrank.com/profile/shantanu1485" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/shantananfo" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
-  </a>
-  <a href="https://codolio.com/profile/Shantanu_Pagar" target="_blank">
-    <img src="https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=codepen&logoColor=white" alt="Codolio"/>
-  </a>
-</p>
-
----
-
-### 📊 LeetCode Stats
-
-<img src="https://leetcard.jacoblin.cool/Shantanu_Pagar?theme=dark&font=baloo&ext=heatmap" alt="LeetCode Stats" />
 
 ## 💻 Competitive Programming Profiles
 
