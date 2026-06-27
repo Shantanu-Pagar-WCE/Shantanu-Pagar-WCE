@@ -14,6 +14,17 @@
 
 ## 💻 Competitive Programming Profiles
 
+| Platform | Profile |
+|----------|---------|
+| 🟠 LeetCode | https://leetcode.com/u/Shantanu_Pagar |
+| 🤎 CodeChef | https://www.codechef.com/users/shantanu_pagar |
+| 🔵 Codeforces | https://codeforces.com/profile/shantanu1485 |
+| 🟢 HackerRank | https://www.hackerrank.com/profile/shantanu1485 |
+| 🟢 GeeksforGeeks | https://www.geeksforgeeks.org/profile/shantananfo |
+| ⚫ Codolio | https://codolio.com/profile/Shantanu_Pagar |
+
+## 💻 Competitive Programming Profiles
+
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Shantanu_Pagar)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/shantanu_pagar)
 [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/shantanu1485)
