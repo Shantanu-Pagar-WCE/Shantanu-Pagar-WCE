@@ -44,10 +44,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Shantanu-Pagar-WCE&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 👀 Profile Views
 
----
-[![](https://komarev.com/ghpvc/?username=Shantanu-Pagar-WCE&icon=0&color=0)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Shantanu-Pagar-WCE&color=blue&style=flat-square)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
